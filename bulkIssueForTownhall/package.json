@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "csvjson": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "node-fetch": "^3.3.2"
+  }
+}

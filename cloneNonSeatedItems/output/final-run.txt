@@ -1,0 +1,7 @@
+Connected successfully to server
+
+
+Cloning for Event 674ea7f9bc0b74ee40b5b885
+Inserting 74 items to DB
+Successfully inserted items
+Cloned Items Successfully to Event 674ea7f9bc0b74ee40b5b885

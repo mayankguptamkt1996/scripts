@@ -1,0 +1,23 @@
+{
+  "name": "clone-items",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "postinstall": "mkdir output && mkdir output/results",
+    "script:dry": "node main.js > output/dry-run.txt",
+    "script:final": "DRY_RUN=false node main.js > output/final-run.txt"
+  },
+  "keywords": [],
+  "author": "Vaibhav Singh <0vaibhavsingh0@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "csvjson": "^5.1.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "mongodb": "^5.1.0",
+    "objects-to-csv": "^1.3.6",
+    "uuid": "^9.0.0"
+  }
+}

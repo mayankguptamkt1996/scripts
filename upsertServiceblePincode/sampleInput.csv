@@ -1,0 +1,7 @@
+pincode,city,state,nonServiceable
+1,Bangalore,Karnataka,false
+2,New Delhi,Delhi,true
+3,Mumbai,Maharashtra,false
+4,Kolkata,West Bengal,true
+5,Hyderabad,Telangana,false
+6,Chennai,Tamil Nadu,true

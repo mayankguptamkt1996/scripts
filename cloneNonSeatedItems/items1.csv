@@ -1,0 +1,138 @@
+Clone_From_Item_Id, Clone_To_Event_Id, Name, Capacity, Price, Phase_Group_Name, Phase_Group_Capacity
+670e71e706056e26c01133ec,67601921ff7733b6863a85d6,Grand Stand L4,346,0,Grand Stand L4,346
+670e72678d3951c90166a8e9,67601921ff7733b6863a85d6,Grand Stand L3,389,0,Grand Stand L3,389
+670e73dd9b1d0ef8e13c40fa,67601921ff7733b6863a85d6,President Box,200,0,President Box,200
+670e7450011055afef93a8e1,67601921ff7733b6863a85d6,Garware Pavilion A L3,650,0,Garware Pavilion A L3,650
+670e75dd8c78ff1cec55c325,67601921ff7733b6863a85d6,Garware Pavilion B L3,489,0,Garware Pavilion B L3,489
+670e764ba4b9fc57c8bca11c,67601921ff7733b6863a85d6,Garware Pavilion C L3,462,0,Garware Pavilion C L3,462
+670e77dc8d3951c90167d79e,67601921ff7733b6863a85d6,Garware Pavilion D L3,451,0,Garware Pavilion D L3,451
+670e782f7753a74548355f7e,67601921ff7733b6863a85d6,Garware Pavilion E L2,216,0,Garware Pavilion E L2,216
+670e788c6d3d5ff40998a0af,67601921ff7733b6863a85d6,Garware Pavilion F L2,132,0,Garware Pavilion F L2,132
+670e78e48aeae29362ba1638,67601921ff7733b6863a85d6,Garware Pavilion G L2,213,0,Garware Pavilion G L2,213
+670e7966c4a87985a9708eeb,67601921ff7733b6863a85d6,Garware Pavilion H L2,198,0,Garware Pavilion H L2,198
+670e79cd9b02a33ab3841930,67601921ff7733b6863a85d6,Garware Pavilion I L1,500,0,Garware Pavilion I L1,500
+670e7b4c5ed18ef01517f6fe,67601921ff7733b6863a85d6,Garware Pavilion J L1,340,0,Garware Pavilion J L1,340
+670e95ffb81fdb94b2de36a3,67601921ff7733b6863a85d6,Garware Pavilion K L1,401,0,Garware Pavilion K L1,401
+670e965c996d14521c6f96cd,67601921ff7733b6863a85d6,Garware Pavilion L L1,344,0,Garware Pavilion L L1,344
+670ed19ffd1e109469b57ffd,67601921ff7733b6863a85d6,MCA Pavilion J L1,403,0,MCA Pavilion J L1,403
+670ed2a6c49a868a2409aefc,67601921ff7733b6863a85d6,MCA Pavilion K L1,373,0,MCA Pavilion K L1,373
+670ed30dd195f993e7c0817b,67601921ff7733b6863a85d6,MCA Pavilion L L1,434,0,MCA Pavilion L L1,434
+670ed35a9fea2048e01223a8,67601921ff7733b6863a85d6,MCA Pavilion M L1,433,0,MCA Pavilion M L1,433
+670ed3c89fea2048e0124dac,67601921ff7733b6863a85d6,Vithal Divecha Pavilion A L3,432,350,Vithal Divecha Pavilion A L3,432
+670ed4c10a72339f3f51eca5,67601921ff7733b6863a85d6,Vithal Divecha Pavilion B L3,491,350,Vithal Divecha Pavilion B L3,491
+670ed5ebbcf1c7d113f80e38,67601921ff7733b6863a85d6,Vithal Divecha Pavilion C L3,416,350,Vithal Divecha Pavilion C L3,416
+670ed724d195f993e7c1543b,67601921ff7733b6863a85d6,Vithal Divecha Pavilion D L2,162,350,Vithal Divecha Pavilion D L2,162
+670ed786bcf1c7d113f870eb,67601921ff7733b6863a85d6,Vithal Divecha Pavilion E L2,217,350,Vithal Divecha Pavilion E L2,217
+670ed80b7d9bda34b54ad966,67601921ff7733b6863a85d6,Vithal Divecha Pavilion F L2,150,350,Vithal Divecha Pavilion F L2,150
+670ed8625817ecb6ab54f688,67601921ff7733b6863a85d6,Vithal Divecha Pavilion G L1,398,350,Vithal Divecha Pavilion G L1,398
+670ed8e0d8b5ae2f109bb9ff,67601921ff7733b6863a85d6,Vithal Divecha Pavilion H L1,341,350,Vithal Divecha Pavilion H L1,341
+670ed9404af45ada2ccd446c,67601921ff7733b6863a85d6,Vithal Divecha Pavilion I L1,400,350,Vithal Divecha Pavilion I L1,400
+670edcb54af45ada2cce1526,67601921ff7733b6863a85d6,Sunil Gavaskar Pavilion A Block L2 ,302,300,Sunil Gavaskar Pavilion A Block L2 ,302
+670edd625817ecb6ab563a4e,67601921ff7733b6863a85d6,Sunil Gavaskar Pavilion B Block L2 ,243,300,Sunil Gavaskar Pavilion B Block L2 ,243
+670eddc27f069514cd561831,67601921ff7733b6863a85d6,Sunil Gavaskar Pavilion C Block L2 ,209,300,Sunil Gavaskar Pavilion C Block L2 ,209
+670ede24ae0e7e6446496026,67601921ff7733b6863a85d6,Sunil Gavaskar Pavilion D Block L2 ,241,300,Sunil Gavaskar Pavilion D Block L2 ,241
+670ededf4af45ada2cce8612,67601921ff7733b6863a85d6,Sunil Gavaskar Pavilion E Block L2 ,243,300,Sunil Gavaskar Pavilion E Block L2 ,243
+670edf55a9d2ef1619133a70,67601921ff7733b6863a85d6,Sunil Gavaskar Pavilion F Block L2 ,306,300,Sunil Gavaskar Pavilion F Block L2 ,306
+670edfe2bcf1c7d113fa7774,67601921ff7733b6863a85d6,Sunil Gavaskar Pavilion G Block L1,664,300,Sunil Gavaskar Pavilion G Block L1,664
+670ee045bcf1c7d113fa8928,67601921ff7733b6863a85d6,Sunil Gavaskar Pavilion H Block L1 ,455,300,Sunil Gavaskar Pavilion H Block L1 ,455
+670ee0a8751b3ca175dc9c51,67601921ff7733b6863a85d6,Sunil Gavaskar Pavilion I Block L1 ,449,300,Sunil Gavaskar Pavilion I Block L1 ,449
+670ee1074af45ada2ccef79c,67601921ff7733b6863a85d6,Sunil Gavaskar Pavilion J Block L1 ,418,300,Sunil Gavaskar Pavilion J Block L1 ,418
+670ee1c85817ecb6ab570a70,67601921ff7733b6863a85d6,Sunil Gavaskar Pavilion K Block L1 ,455,300,Sunil Gavaskar Pavilion K Block L1 ,455
+670ee2297d9bda34b54cff72,67601921ff7733b6863a85d6,Sunil Gavaskar Pavilion L Block L1 ,664,300,Sunil Gavaskar Pavilion L Block L1 ,664
+670ee30125f08d6035ea5616,67601921ff7733b6863a85d6,Sachin Tendulkar Stand A Block L3 ,757,350,Sachin Tendulkar Stand A Block L3 ,757
+670ee3621e6c295990f628ba,67601921ff7733b6863a85d6,Sachin Tendulkar Stand B Block L3 ,440,350,Sachin Tendulkar Stand B Block L3 ,440
+670ee3b84af45ada2ccf2c5d,67601921ff7733b6863a85d6,Sachin Tendulkar Stand C Block L3 ,496,350,Sachin Tendulkar Stand C Block L3 ,496
+670ee4127f069514cd56e4cc,67601921ff7733b6863a85d6,Sachin Tendulkar Stand D BLock L3 ,465,350,Sachin Tendulkar Stand D BLock L3 ,465
+670ee504c67350440c072dc4,67601921ff7733b6863a85d6,Sachin Tendulkar Stand E Block L3 ,482,350,Sachin Tendulkar Stand E Block L3 ,482
+670ee5a07d9bda34b54d16a0,67601921ff7733b6863a85d6,Sachin Tendulkar Stand F Block L3 ,474,350,Sachin Tendulkar Stand F Block L3 ,474
+670ee5f9c67350440c07322d,67601921ff7733b6863a85d6,Sachin Tendulkar Stand G Block L3 ,828,350,Sachin Tendulkar Stand G Block L3 ,828
+670ee797c6c7c662a6bcbfff,67601921ff7733b6863a85d6,Sachin Tendulkar Stand N L2,403,350,Sachin Tendulkar Stand N L2,403
+670ee8005817ecb6ab573a52,67601921ff7733b6863a85d6,Sachin Tendulkar Stand O L2,399,350,Sachin Tendulkar Stand O L2,399
+670ee87725f08d6035ea9614,67601921ff7733b6863a85d6,Sachin Tendulkar Stand P L2,624,350,Sachin Tendulkar Stand P L2,624
+670ee8f9bcf1c7d113fb1545,67601921ff7733b6863a85d6,Sachin Tendulkar Stand Q L1,893,350,Sachin Tendulkar Stand Q L1,893
+670ee95b4af45ada2ccf7be1,67601921ff7733b6863a85d6,Sachin Tendulkar Stand R Block L1 ,392,350,Sachin Tendulkar Stand R Block L1 ,392
+670eeaae25f08d6035eaa887,67601921ff7733b6863a85d6,Sachin Tendulkar Stand S Block L1 ,340,350,Sachin Tendulkar Stand S Block L1 ,340
+670f6a097d5abb78659e8e0b,67601921ff7733b6863a85d6,Sachin Tendulkar Stand T Block L1,397,350,Sachin Tendulkar Stand T Block L1,397
+670eebbb8d583c9dd8be6f8d,67601921ff7733b6863a85d6,Sachin Tendulkar Stand U Block L1 ,341,350,Sachin Tendulkar Stand U Block L1 ,341
+670f6ac9cec2782c1708adff,67601921ff7733b6863a85d6,Sachin Tendulkar Stand V Block L1 ,623,350,Sachin Tendulkar Stand V Block L1 ,623
+670e9486c3e1035903ce9cb0,67601921ff7733b6863a85d6,Dilip Vengsarkar Stand H Block L3 ,835,350,Dilip Vengsarkar Stand H Block L3 ,835
+670e94eac91a68626318c48e,67601921ff7733b6863a85d6,Dilip Vengsarkar Stand I Block L3 ,464,350,Dilip Vengsarkar Stand I Block L3 ,464
+670e957806056e26c0150eb0,67601921ff7733b6863a85d6,Dilip Vengsarkar Stand J Block L3 ,487,350,Dilip Vengsarkar Stand J Block L3 ,487
+670eed319fea2048e0158d50,67601921ff7733b6863a85d6,Dilip Vengsarkar Stand K Block L3 ,643,350,Dilip Vengsarkar Stand K Block L3 ,643
+670eee05d8b5ae2f109dcfd4,67601921ff7733b6863a85d6,Dilip Vengsarkar Stand L L2,319,350,Dilip Vengsarkar Stand L L2,319
+670eeeda751b3ca175dd5382,67601921ff7733b6863a85d6,Dilip Vengsarkar Stand M L2,399,350,Dilip Vengsarkar Stand M L2,399
+670eef507f069514cd5742cd,67601921ff7733b6863a85d6,Dilip Vengsarkar Stand W Block L1 ,620,350,Dilip Vengsarkar Stand W Block L1 ,620
+670ef05ba9d2ef161914286f,67601921ff7733b6863a85d6,Dilip Vengsarkar Stand X Block L1,338,350,Dilip Vengsarkar Stand X Block L1,338
+670ef14fc6c7c662a6bd0b6d,67601921ff7733b6863a85d6,Dilip Vengsarkar Stand Y Block L1 ,626,350,Dilip Vengsarkar Stand Y Block L1 ,626
+670ef287fd1e109469b9d349,67601921ff7733b6863a85d6,Vijay Merchant Pavilion A L2 ,480,300,Vijay Merchant Pavilion A L2 ,480
+670ef2e4c49a868a240d2196,67601921ff7733b6863a85d6,Vijay Merchant Pavilion B Block L2 ,256,300,Vijay Merchant Pavilion B Block L2 ,256
+670ef33fa9d2ef1619143ac5,67601921ff7733b6863a85d6,Vijay Merchant Pavilion C Block L2 ,256,300,Vijay Merchant Pavilion C Block L2 ,256
+670ef410d8b5ae2f109dfa9f,67601921ff7733b6863a85d6,Vijay Merchant Pavilion D Block L2 ,243,300,Vijay Merchant Pavilion D Block L2 ,243
+670ef4d8c49a868a240d350a,67601921ff7733b6863a85d6,Vijay Merchant Pavilion E Block L2 ,279,300,Vijay Merchant Pavilion E Block L2 ,279
+670ef5dfbcf1c7d113fb6fef,67601921ff7733b6863a85d6,Vijay Merchant Pavilion F Block L1 ,97,300,Vijay Merchant Pavilion F Block L1 ,97
+670ef8235817ecb6ab57c34d,67601921ff7733b6863a85d6,Vijay Merchant Pavilion G Block L1 ,444,300,Vijay Merchant Pavilion G Block L1 ,444
+670ef88b7d9bda34b54da3ae,67601921ff7733b6863a85d6,Vijay Merchant Pavilion H Block L1 ,465,300,Vijay Merchant Pavilion H Block L1 ,465
+670f2d7e7f069514cd5ac17b,67601921ff7733b6863a85d6,Vijay Merchant Pavilion I Block L1 ,465,300,Vijay Merchant Pavilion I Block L1 ,465
+670f2ddad195f993e7c722a6,67601921ff7733b6863a85d6,Vijay Merchant Pavilion J Block L1 ,466,300,Vijay Merchant Pavilion J Block L1 ,466
+670f2e585817ecb6ab5b1086,67601921ff7733b6863a85d6,Vijay Merchant Pavilion K Block L1 ,465,300,Vijay Merchant Pavilion K Block L1 ,465
+670f2ecc40f9b900345a1aec,67601921ff7733b6863a85d6,Vijay Merchant Pavilion L Block L1,380,300,Vijay Merchant Pavilion L Block L1,380
+670f2fd28d583c9dd8c26f81,67601921ff7733b6863a85d6,Sachin Tendulkar Stand Box 1 L1 ,15,0,Sachin Tendulkar Stand Box 1 L1 ,15
+670f3055d8b5ae2f10a1c6d0,67601921ff7733b6863a85d6,Sachin Tendulkar Stand Box 2 L1 ,15,0,Sachin Tendulkar Stand Box 2 L1 ,15
+670f30abfd1e109469bd9d83,67601921ff7733b6863a85d6,Sachin Tendulkar Stand Box 3 L1 ,15,0,Sachin Tendulkar Stand Box 3 L1 ,15
+670f3123c67350440c0b5206,67601921ff7733b6863a85d6,Sachin Tendulkar Stand Box 4 L1,15,0,Sachin Tendulkar Stand Box 4 L1,15
+670f31818d583c9dd8c29da9,67601921ff7733b6863a85d6,Sachin Tendulkar Stand Box 5 L1,15,0,Sachin Tendulkar Stand Box 5 L1,15
+670f31e6d195f993e7c7845f,67601921ff7733b6863a85d6,Sachin Tendulkar Stand Box 6 L1,15,0,Sachin Tendulkar Stand Box 6 L1,15
+670f324e7f069514cd5b5a8c,67601921ff7733b6863a85d6,Sachin Tendulkar Stand Box 7 L1,15,0,Sachin Tendulkar Stand Box 7 L1,15
+670f32a0c6c7c662a6c15308,67601921ff7733b6863a85d6,Sachin Tendulkar Stand Box 8 L1,15,0,Sachin Tendulkar Stand Box 8 L1,15
+670f32f8c67350440c0b7ed9,67601921ff7733b6863a85d6,Sachin Tendulkar Stand Box 9 L1,15,0,Sachin Tendulkar Stand Box 9 L1,15
+670f37e6751b3ca175e37c20,67601921ff7733b6863a85d6,Dilip Vengsarkar Stand Box 10 - L1,15,0,Dilip Vengsarkar Stand Box 10 - L1,15
+670f383dbc838abdc527cbea,67601921ff7733b6863a85d6,Dilip Vengsarkar Stand Box 11- L1,15,0,Dilip Vengsarkar Stand Box 11- L1,15
+670f38940a77ac77dbda631a,67601921ff7733b6863a85d6,Dilip Vengsarkar Stand Box 12 - L1,15,0,Dilip Vengsarkar Stand Box 12 - L1,15
+670f38f20a77ac77dbda8aad,67601921ff7733b6863a85d6,Dilip Vengsarkar Stand Box 13- L1,15,0,Dilip Vengsarkar Stand Box 13- L1,15
+670f394d5817ecb6ab5e917b,67601921ff7733b6863a85d6,Dilip Vengsarkar Stand Box 14 L1,15,0,Dilip Vengsarkar Stand Box 14 L1,15
+670f39bcd8b5ae2f10a5412d,67601921ff7733b6863a85d6,Sachin Tendulkar Stand Box 15 L2,20,0,Sachin Tendulkar Stand Box 15 L2,20
+670f3a11a6fac84da97fa42e,67601921ff7733b6863a85d6,Sachin Tendulkar Stand Box 16 L2 ,20,0,Sachin Tendulkar Stand Box 16 L2 ,20
+670f3a6a86687b55e30eb07e,67601921ff7733b6863a85d6,Sachin Tendulkar Stand Box 17 L2 ,20,0,Sachin Tendulkar Stand Box 17 L2 ,20
+670f3ac3fd1e109469c1cc65,67601921ff7733b6863a85d6,Sachin Tendulkar Stand Box 18 L2,20,0,Sachin Tendulkar Stand Box 18 L2,20
+670f3b0840f9b900345e8f24,67601921ff7733b6863a85d6,Sachin Tendulkar Stand Box 19 L2,20,0,Sachin Tendulkar Stand Box 19 L2,20
+670f3b596623ebdfc5ebcf76,67601921ff7733b6863a85d6,Sachin Tendulkar Stand Box 20 L2,20,0,Sachin Tendulkar Stand Box 20 L2,20
+670f3bb0251531e2f177d722,67601921ff7733b6863a85d6,Sachin Tendulkar Stand Box 21 L2,20,0,Sachin Tendulkar Stand Box 21 L2,20
+670f4252de3a3d6ac01ec77f,67601921ff7733b6863a85d6,Dilip Vengsarkar Stand Box 22 L2,20,0,Dilip Vengsarkar Stand Box 22 L2,20
+670f42a8c033adf5bb1fa406,67601921ff7733b6863a85d6,Dilip Vengsarkar Stand Box 23 L2,20,0,Dilip Vengsarkar Stand Box 23 L2,20
+670f43278d583c9dd8c7a662,67601921ff7733b6863a85d6,Dilip Vengsarkar Stand Box 24 L2,20,0,Dilip Vengsarkar Stand Box 24 L2,20
+670f438b9fea2048e01e9ae9,67601921ff7733b6863a85d6,Dilip Vengsarkar Stand Box 25 L2,20,0,Dilip Vengsarkar Stand Box 25 L2,20
+670f43e8d195f993e7ccec31,67601921ff7733b6863a85d6,Vithal Divecha Pavilion Box 26 L1,15,0,Vithal Divecha Pavilion Box 26 L1,15
+670f4461de3a3d6ac01efcc5,67601921ff7733b6863a85d6,Vithal Divecha Pavilion Box 27 L1,15,0,Vithal Divecha Pavilion Box 27 L1,15
+670f44c5fd1e109469c2febf,67601921ff7733b6863a85d6,Vithal Divecha Pavilion Box 28 L1,15,0,Vithal Divecha Pavilion Box 28 L1,15
+670f4526bcf1c7d113044861,67601921ff7733b6863a85d6,Vithal Divecha Pavilion Box 29 L2,20,0,Vithal Divecha Pavilion Box 29 L2,20
+670f459c4af45ada2cd931c3,67601921ff7733b6863a85d6,Vithal Divecha Pavilion Box 30 L2,20,0,Vithal Divecha Pavilion Box 30 L2,20
+670f4613a9d2ef16191df845,67601921ff7733b6863a85d6,Vithal Divecha Pavilion Box 31 L2,20,0,Vithal Divecha Pavilion Box 31 L2,20
+670f5b572a02214a260e49f0,67601921ff7733b6863a85d6,MCA Pavilion Box 32 - L2,15,0,MCA Pavilion Box 32 - L2,15
+670f5c7a1edab71971601819,67601921ff7733b6863a85d6,MCA Pavilion Box 33 - L2,15,0,MCA Pavilion Box 33 - L2,15
+670f5e1cbcf1c7d113077fcf,67601921ff7733b6863a85d6,MCA Pavilion Box 34 - L2,15,0,MCA Pavilion Box 34 - L2,15
+670f5eb1b028ff14f5ca31c9,67601921ff7733b6863a85d6,MCA Pavilion Box 35 - L2,15,0,MCA Pavilion Box 35 - L2,15
+670f5f756cb7bf4705a0ed32,67601921ff7733b6863a85d6,MCA Pavilion Box 36 - L2,15,0,MCA Pavilion Box 36 - L2,15
+670f5ff0ceb0083af44e3951,67601921ff7733b6863a85d6,MCA Pavilion Box 37 - L2,15,0,MCA Pavilion Box 37 - L2,15
+670f6051c6c7c662a6ca1beb,67601921ff7733b6863a85d6,MCA Pavilion Box 38 - L2,20,0,MCA Pavilion Box 38 - L2,20
+670f60c40cb9129fd244990e,67601921ff7733b6863a85d6,MCA Pavilion Box 39 - L2,20,0,MCA Pavilion Box 39 - L2,20
+670f6135bc838abdc52e7690,67601921ff7733b6863a85d6,MCA Pavilion Box 40 - L2,20,0,MCA Pavilion Box 40 - L2,20
+670f61976f20f78b1fab423b,67601921ff7733b6863a85d6,MCA Pavilion Box 41 - L3,15,0,MCA Pavilion Box 41 - L3,15
+670f61f71edab7197160c716,67601921ff7733b6863a85d6,MCA Pavilion Box 42 - L3,15,0,MCA Pavilion Box 42 - L3,15
+670f6269ceb0083af44e7fe8,67601921ff7733b6863a85d6,MCA Pavilion Box 43 - L3,15,0,MCA Pavilion Box 43 - L3,15
+670f62c0c67350440c1490fe,67601921ff7733b6863a85d6,MCA Pavilion Box 44 - L3,15,0,MCA Pavilion Box 44 - L3,15
+670f63166623ebdfc5f11026,67601921ff7733b6863a85d6,MCA Pavilion Box 45 - L3,15,0,MCA Pavilion Box 45 - L3,15
+670f63caeeab21269c89a51a,67601921ff7733b6863a85d6,MCA Pavilion Box 46 - L3,15,0,MCA Pavilion Box 46 - L3,15
+670f645bfd1e109469c77f46,67601921ff7733b6863a85d6,MCA Pavilion Box 47 - L3,15,0,MCA Pavilion Box 47 - L3,15
+670f64b0c033adf5bb24247e,67601921ff7733b6863a85d6,MCA Pavilion Box 48 - L3,15,0,MCA Pavilion Box 48 - L3,15
+6711198a73a02cf33c0c87f4,67601921ff7733b6863a85d6,MCA Pavilion Box 49 L3,15,0,MCA Pavilion Box 49 L3,15
+670f660f6f20f78b1fabce96,67601921ff7733b6863a85d6,Garware Pavilion Box 50 - L1,15,0,Garware Pavilion Box 50 - L1,15
+670f6665c6c7c662a6cadb1c,67601921ff7733b6863a85d6,Garware Pavilion Box 51 - L1 ,15,0,Garware Pavilion Box 51 - L1 ,15
+670f66c7c6c7c662a6cadf7b,67601921ff7733b6863a85d6,Garware Pavilion Box 52 - L1,15,0,Garware Pavilion Box 52 - L1,15
+670f67525817ecb6ab6526d0,67601921ff7733b6863a85d6,Garware Pavilion Box 53 - L1,15,0,Garware Pavilion Box 53 - L1,15
+670f67a7ceb0083af44f81ad,67601921ff7733b6863a85d6,Garware Pavilion Box 54 - L1,15,0,Garware Pavilion Box 54 - L1,15
+670f6802f2d19d25702b9467,67601921ff7733b6863a85d6,Garware Pavilion Box 55 - L2,20,0,Garware Pavilion Box 55 - L2,20
+670f6899b430a980bedc5091,67601921ff7733b6863a85d6,Garware Pavilion Box 56 - L2,20,0,Garware Pavilion Box 56 - L2,20
+670f68eb2a02214a260ffafc,67601921ff7733b6863a85d6,Garware Pavilion Box 57 - L2,20,0,Garware Pavilion Box 57 - L2,20
+670f6942c80b21aeefccb8e2,67601921ff7733b6863a85d6,Garware Pavilion Box 59 - L1,40,0,Garware Pavilion Box 59 - L1,40
+670f69af9b815231d92bfaa0,67601921ff7733b6863a85d6,North Stand Box 60 - L1,12,0,North Stand Box 60 - L1,12
+6724d7e2f0799fab73578c92,67601921ff7733b6863a85d6,VIP BOX - L2,15,0,VIP BOX - L2,15

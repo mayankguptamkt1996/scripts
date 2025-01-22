@@ -1,0 +1,2 @@
+deliveryName,deliveryEmail,deliveryPhone,transaction_type,count,name,address_1,address_2,city,state,pincode,delivery_details_address_type,item_user_params_name,item_user_params_value,inv_user_params_name,inv_user_params_value,inv_user_params_name1,inv_user_params_value1,z_shortcode,z_order_id,delivery_details_landmark
+Mayank,mayank.gupta@insider.in,8285549432,issued,1,Ms Malika Sagar,Sorrento 1st floor Flat No 2,Mount Pleasant Road Near,Varsha Bunglow Malabar Hill,Mumbai,243201,residential,unlock_key,543222,Seat_Name,154,Seat_Name,112,12323,QWERFGBN

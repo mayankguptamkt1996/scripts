@@ -1,0 +1,22 @@
+{
+  "name": "bulkresendcomms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bulkResendComms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "csv-parse": "^1.2.4",
+    "json-2-csv": "^3.17.0",
+    "lodash": "^4.17.21",
+    "mongodb": "^3.1.13",
+    "node-fetch": "^1.7.3",
+    "papaparse": "^5.4.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}

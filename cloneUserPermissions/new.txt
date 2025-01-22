@@ -1,0 +1,27 @@
+6771449da5669fa32da6461a
+email Id, total permission's found Neeti.1@startek.com 1
+676fe1aec93912ddc7dbc89e
+email Id, total permission's found hiba.aijaz@startek.com 1
+677144cefa9ccd9f95d10f8e
+email Id, total permission's found faisal.Manzoor1@startek.com 1
+677144e6df33d0097dd809fb
+email Id, total permission's found Namra.Javed@startek.com 1
+6771439ddf33d0097dd7fb65
+email Id, total permission's found Richa.Kumari1@startek.com 1
+677143c1fa9ccd9f95d105c8
+email Id, total permission's found Salik.Zahoor@startek.com 1
+677143dbc9a551da3d2422ad
+email Id, total permission's found Sana.Siddique@startek.com 1
+6771441ddc6f2a9814ca3eba
+email Id, total permission's found Tarun.Shekatkar@startek.com 1
+67714434df33d0097dd80034
+email Id, total permission's found Umra.Sohail@startek.com 1
+6771444ebe4d082f242e2ae4
+email Id, total permission's found Uzma.Ali@startek.com 1
+6771446cbe4d082f242e2b4f
+email Id, total permission's found tempAman.Gupta@startek.com 1
+677147efb2418ab88a9c2fd3
+email Id, total permission's found tempMousumi.Saha@startek.com 1
+6771480bdc6f2a9814ca54fd
+email Id, total permission's found tempArnaba.Nafis@startek.com 1
+closing connection

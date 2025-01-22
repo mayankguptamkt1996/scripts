@@ -1,0 +1,19 @@
+{
+  "name": "stashcredit",
+  "version": "1.0.0",
+  "description": "This is the script to",
+  "main": "stashCredit.js",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "lodash": "^4.17.21",
+    "mongodb": "^3.1.13",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

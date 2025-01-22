@@ -1,0 +1,21 @@
+{
+  "name": "productid_update",
+  "version": "1.0.0",
+  "main": "pid_update.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "csvjson": "^5.1.0",
+    "lodash": "^4.17.21",
+    "mongodb": "^5.9.1",
+    "mongoose": "^7.4.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "description": ""
+}

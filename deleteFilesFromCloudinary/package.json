@@ -1,0 +1,14 @@
+{
+  "name": "delete-files-from-cloudinary",
+  "version": "1.0.0",
+  "description": "Delets files from cloudinary based on public ids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "srivastava.prachi@zomato.com",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^2.5.1"
+  }
+}

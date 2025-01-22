@@ -1,0 +1,12 @@
+Clone_From_Item_Id, Clone_To_Event_Id, Name, Capacity, Price, Paytm_Product_Id,  Phase_Group_Name, Phase_Group_Capacity
+64082ee552cadd0aeb5ade90, 64230644fadd0947c2ee8433, Vaibhav test item 8,3, 3, 128,  ABC, 100
+62d02baa5eddd64289539495, 6423071e1e64c12aee994593, Vaibhav test item 6,2, 3, 127,  ABC, 100
+62ceb9273703b7d434aeddbf, 6423071e1e64c12aee994593, Vaibhav test item 7,3, 3, 129,  DEF, 50 
+64082ee552cadd0aeb5ade90, 64230644fadd0947c2ee8433, Vaibhav test item 9,4, 4, 130,  DEF, 50 
+62d02baa5eddd64289539495, 64230644fadd0947c2ee8433, Vaibhav test item 13,4, 4, 131,
+6407777c52cadd0aeb5adcb6, 6423071e1e64c12aee994593, Vaibhav test item 13,4, 4, 138,
+632566562226240cc0bc3300, 64230644fadd0947c2ee8433, Vaibhav test item 16,4, 4, 139, 
+632566562226240cc0bc3300, 6423071e1e64c12aee994593, Vaibhav test item 15,4, 4, 141, 
+6407777c52cadd0aeb5adcb6, 6423071e1e64c12aee994593, Vaibhav test item 17,4, 4, 143,
+632566562226240cc0bc3300, 64230644fadd0947c2ee8433, Vaibhav test item 18,4, 4, 144, 
+62ceb9273703b7d434aeddbf, 6423071e1e64c12aee994593, Vaibhav test item 11,1, 4, 147, 

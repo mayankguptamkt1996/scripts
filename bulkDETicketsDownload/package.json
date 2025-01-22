@@ -1,0 +1,22 @@
+{
+  "name": "bulkdeticketsdownload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "download-digital-entry-pdfs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.5",
+    "aws-sdk": "^2.216.1",
+    "bluebird": "^3.5.1",
+    "csvjson": "^5.1.0",
+    "fs-extra": "^11.2.0",
+    "json-2-csv": "^3.17.0",
+    "lodash": "^4.17.21",
+    "mongodb": "^3.1.13",
+    "papaparse": "^5.4.1"
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+	"from": "/raeeth-presents-experience-27-dec-dec27-2024/event",
+	"to": "/raeeth-presents-experience-27-dec-dec27-2024-ny2025/event"
+},
+{
+	"from": "/raeeth-experience-30-dec-dec30-2024/event",
+	"to": "/raeeth-experience-30-dec-dec30-2024-ny2025/event"
+},
+{
+	"from": "/the-hippyland-new-year-celebration-dec31-2024/event",
+	"to": "/the-hippyland-new-year-celebration-dec31-2024-ny2025/event"
+},
+{
+	"from": "/nye-dj-party-new-year-celebration-pawna-lake-camping-2025-dec31-2024/event",
+	"to": "/nye-dj-party-new-year-celebration-pawna-lake-camping-2025-dec31-2024-ny2025/event"
+},
+{
+	"from": "/raeeth-presents-experience-28-dec-dec28-2024/event",
+	"to": "/raeeth-presents-experience-28-dec-dec28-2024-ny2025/event"
+},
+{
+	"from": "/pawna-lake-new-year-camping-2025-dec31-2024/event",
+	"to": "/pawna-lake-new-year-camping-2025-dec31-2024-ny2025/event"
+},
+{
+	"from": "/raeeth-presents-experience-31-dec-dec31-2024/event",
+	"to": "/raeeth-presents-experience-31-dec-dec31-2024-ny2025/event"
+},
+{
+	"from": "/unlock-2025-new-year-eve-party-dec31-2024/event",
+	"to": "/unlock-2025-new-year-eve-party-dec31-2024-ny2025/event"
+},
+{
+	"from": "/aloft-new-year-party-dec31-2024/event",
+	"to": "/aloft-new-year-party-dec31-2024-ny2025/event"
+},
+{
+	"from": "/unmask-the-night-edition-30-2025-dec31-2024/event",
+	"to": "/unmask-the-night-edition-30-2025-dec31-2024-ny2025/event"
+},
+{
+	"from": "/raeeth-experience-29-dec-dec29-2024/event",
+	"to": "/raeeth-experience-29-dec-dec29-2024-ny2025/event"
+},
+{
+	"from": "/raveolution-trance-party-in-kasol-dec28-2024/event",
+	"to": "/raveolution-trance-party-in-kasol-dec28-2024-ny2025/event"
+},
+{
+	"from": "/bismil-ke-mehfil-dec28-2024/event",
+	"to": "/bismil-ke-mehfil-dec28-2024-ny2025/event"
+},

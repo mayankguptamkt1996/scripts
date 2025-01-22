@@ -1,0 +1,19 @@
+{
+  "name": "zomaland",
+  "version": "1.0.0",
+  "description": "This script is to fetch the user details for transaction id filter event_id",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "csvjson": "^5.1.0",
+    "csv-parse": "^1.2.4",
+    "lodash": "^4.17.21",
+    "mongodb": "^3.1.13",
+    "papaparse": "^5.4.1"
+  }
+}

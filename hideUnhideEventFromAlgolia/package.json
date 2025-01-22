@@ -1,0 +1,25 @@
+{
+  "name": "hide-unhide-events-from-algolia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-ci": "exit 0",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod-delete-events": "NODE_TLS_REJECT_UNAUTHORIZED=0 NODE_ENV=prod node deleteEventsFromAlgolia.js",
+    "prod-hide-events":"NODE_TLS_REJECT_UNAUTHORIZED=0 NODE_ENV=prod node hideEventsFromAlgolia.js",
+    "prod-unhide-events": "NODE_TLS_REJECT_UNAUTHORIZED=0 NODE_ENV=prod node unhideEventsFromAlgolia.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "algoliasearch": "^3.24.8",
+    "lodash.get": "^4.4.2",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "serverless": "^3.25.1"
+  }
+}
